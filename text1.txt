@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is CE73-74E4
+
+ Directory of C:\Users\nikhi\OneDrive\Desktop\MyProject
+
+09/06/2023  11:52    <DIR>          .
+09/06/2023  11:46    <DIR>          ..
+09/06/2023  11:52                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  403,112,538,112 bytes free
